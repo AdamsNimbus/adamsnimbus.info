@@ -1,0 +1,452 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Adam Kiss",
+    "label": "Principal Engineer",
+    "image": "",
+    "email": "adamkiss.cloud@gmail.com",
+    "phone": "0422142659",
+    "url": "",
+    "summary": "Having exposure to a variety of IT technologies is one thing, knowing how to leverage them to drive a business forward is another. My analysis is not stuck simply to the software stack, but to technology as a whole which can lead to drastic resource/time savings. I Have strong exposure in the Finance sector, specifically Banking, Government Treasury, Insurance and more recently Consulting on Cloud transitions for Airlines, Gas/Power companies and other large financial orgs. I feel the experience I have gained is strongly applicable to IT roles that focus on the following:\n\nDriving automation\n\n- A keen sense in detecting workflows that drain resources, slow down overnight processing runs or tasks that are asking to be automated. \n- Migrating complex jobs, splitting up and leveraging cloud technologies such as event driven serverless or containerised scaling solutions. \n\nCloud transitions\n\n- Exposed to the considerations of resourcing, security, performance and automation that projects under Amazon Cloud (AWS) & Google Cloud (GCP)  architecture can bring.\n- Design, deployment and support of AWS environments with focus on Immutable Infrastructure as Code solutions rather than classical mode 1 deployments, leveraging leading industry tooling.\n- Live application troubleshooting providing technical assistance to development teams.\n- Extensive application migration experience for a number of clients - Rehost, Replatform & Refactor. \n\nProject driven results\n\n- Recognised as a strong technical communicator with the ability to form strong bonds with non IT sections of the business and absorb the big picture and fill in the gaps to reach milestones.\n- Strong agile mindset, able to efficiently utilise own time as well as others by running to the point workshops to deliver team based outcomes.\n- Pivotal member of a project team involved in a six month critical data centre move with role including vendor relations, business continuity as well as all technical aspects of the move. ",
+    "location": {
+      "countryCode": "US",
+      "address": "Australia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adamkiss86",
+        "url": "https://www.linkedin.com/in/adamkiss86/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Oliyon Pty Ltd",
+      "position": "Co-Founder",
+      "startDate": "2020-05-31",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "summary": "Assisting clients with all things technical, focusing on the successful adoption of cloud technologies. Core Focus:\n- Industry-standard IAC tools (TF, CDK, CFN, raw API)\n- Containerisation (Local dev, build/deploy & app runtime)\n- Legacy app modernisation (re-platform ECS/EKS/EC2/RDS etc)\n- Upskilling dev/engineer teams in DevOps practices (workshops & pair programming)\n- Hosting workshops for a variety of reasons - Discovery or knowledge gathering\n- SecOps automation - Containers, Serverless & API best practices\n- All the AWS things... Ask me :)",
+      "url": "https://www.linkedin.com/company/oliyon-pty-ltd/",
+      "location": "Melbourne, Victoria, Australia"
+    },
+    {
+      "name": "Contino",
+      "position": "Senior Cloud Engineer",
+      "startDate": "2018-04-30",
+      "endDate": "2020-05-31",
+      "highlights": [],
+      "summary": "Continuation of my role with Nebulr post Contino merger. \n\nCurrently focusing on assisting clients grow in ability and confidence moving into AWS, transforming mindsets to target automation and efficiency in the cloud. Deploying infrastructure as code, ensuring a secure and maintainable/documented/tested environment is handed to the client. \n\nProviding technical analysis for application migrations, pro's and con's of the variety of options and assisting the business with workshops to up-skill the teams to complete the migration events. \n\nHave a deep understanding on all aspects of cloud adoption:\n- Experience building & managing automated complex multi-region landing zones: Terraform, Cloudformation & other automated deployment tools/pipelines\n- Running workshops to address tech debt or team limitations\n- Solving complex network, security or application requirements for hybrid systems\n- Pair programming with fellow engineers to upskill\n- Running application migration events at high velocity to realise business value",
+      "url": "https://www.linkedin.com/company/contino/",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "name": "Nebulr",
+      "position": "AWS Systems Engineer",
+      "startDate": "2017-10-31",
+      "endDate": "2018-04-30",
+      "highlights": [],
+      "summary": "Moving stuff from the Ground into the Sky.\n\n- Assisting clients with migrations from on-prem into cloud based solutions\n\nSome Key Tech Buzzwords (Things I do daily) - Automate, Ansible, Python, Lambda, AWS, git, Bash, Boto3, API, Auto-scale, Test, Document :(, Bootstrap, Build, CloudFormation, Ops and maybe some Dev, Tinker/Break then Fix, Collaborate and \nPreach (the cloud mindset)",
+      "url": "",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "name": "FinXL IT Professional Services",
+      "position": "Cloud Automation Operator - Telstra Cloud Services",
+      "startDate": "2017-06-30",
+      "endDate": "2017-09-30",
+      "highlights": [],
+      "summary": "Assisting with the cloud enablement project as part of the Cloud and Data Centre Operations team at Telstra. \n\nPrimarily focused on AWS with Azure and IBM Softlayer also in scope. \n\n- Working with a variety of teams to ensure on-boarding of applications is successful\n- Ensure AWS best practices are maintained and hosted systems resilient/compliant with internal support channels to achieve required SLA's",
+      "url": "https://www.linkedin.com/company/finxl-it-professional-services/",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "name": "Munich Re (Group)",
+      "position": "Systems Support Engineer",
+      "startDate": "2016-03-31",
+      "endDate": "2017-04-30",
+      "highlights": [],
+      "summary": "Continuation of previous role as shared service under Munich Re.",
+      "url": "https://www.linkedin.com/company/munich-re/",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "name": "Calliden Insurance",
+      "position": "Systems Engineer",
+      "startDate": "2012-04-30",
+      "endDate": "2016-03-31",
+      "highlights": [],
+      "summary": "Acting as a infrastructure based role for the Melbourne office supporting a number of internal/external facing applications and systems. \n\nResponsibilities include:\n\n- Project work assisting the applications teams with implementations\n- Configuration of the Vmware esx environment (Win2003/2008/2012)\n- Amazon Cloud Services (AWS) - Linux/Windows/Jboss/SQL 24/7 portals\n- Administration of VDI desktop infrastructure (servers)\n- Workload Automation - script/batch processing etc (ActiveBatch)\n- Configuration and maintenance of the backup and DR process (CommVault), administration of backup/restore procedures including troubleshooting\n- Designing DR environments and running Production tests with the business for systems that are not covered for failure\n- Maintenance/Configuration of EMC & HP 3PAR SAN\n- Fiber Switching configuration and maintenance (Brocade)\n- Cisco routing/switching/firewall configuration and maintenance \n- Bluecoat & Ironport proxy configuration and maintenance\n- Implementation/research on new systems required for implementation (eg Workload Automation)\n- Monthly patch release cycle on both Server/Desktops including pilot test phase. SCCM 2007 & 2012\n- Datacenter upkeep and all levels of troubleshooting\n- Documentation and design improvements of current processes\n- Providing SQL support for database maintenance of critical external and internal systems\n- Polycomm Video conferencing\n- Vendor relations",
+      "url": "https://www.linkedin.com/company/calliden-insurance/",
+      "location": "Melbourne CBD"
+    },
+    {
+      "name": "Western Australian Treasury Corporation",
+      "position": "Systems Administrator",
+      "startDate": "2010-06-30",
+      "endDate": "2012-04-30",
+      "highlights": [],
+      "summary": "Administration/Support of following systems : \n\nCommVault v9\nVmWare Esxi4\nServer 2003/2008 Admin/config\nExchange 2010\nLumensions Endpoint Security\nClearswift Webgateway/Mailsweeper\nSymantec Endpoint\nGoToMyPC/LogMeIn\nTrim\nReuters\nWin7/WinXp deployements",
+      "url": "",
+      "location": "Perth CBD"
+    },
+    {
+      "name": "R Group International",
+      "position": "Support Engineer",
+      "startDate": "2009-12-31",
+      "endDate": "2011-06-30",
+      "highlights": [],
+      "summary": "Providing support/troubleshooting to a large number of clients.",
+      "url": "https://www.linkedin.com/company/r-group-international/"
+    },
+    {
+      "name": "Fosters Group",
+      "position": "Field Support",
+      "startDate": "2008-11-30",
+      "endDate": "2009-11-30",
+      "highlights": [],
+      "summary": "IT Field Support Technician for all WA locations",
+      "url": "https://www.linkedin.com/company/carlton-united-breweries/",
+      "location": "Fremantle"
+    },
+    {
+      "name": "Amcom",
+      "position": "Switching assistant",
+      "startDate": "2009-01-31",
+      "endDate": "2009-08-31",
+      "highlights": [],
+      "summary": "Working on infrastructure upgrades for backbone networking gear.",
+      "url": "https://www.linkedin.com/company/amcom-telecommunications/"
+    },
+    {
+      "name": "CSC",
+      "position": "Desktop Support Analyst",
+      "startDate": "2008-01-31",
+      "endDate": "2008-08-31",
+      "highlights": [],
+      "summary": "Department of the Attorney General",
+      "url": "https://www.linkedin.com/company/csc/"
+    },
+    {
+      "name": "BankWest",
+      "position": "User Administration",
+      "startDate": "2006-10-31",
+      "endDate": "2008-01-31",
+      "highlights": [],
+      "summary": "Administration of User Accounts",
+      "url": "https://www.linkedin.com/company/bankwest/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "TAFE NSW",
+      "area": "Network Engineering",
+      "studyType": "Diploma",
+      "startDate": "2003-12-31",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "VMware Certified Professional (VCP5)",
+      "issuer": "VMware",
+      "startDate": "2011-05-31"
+    },
+    {
+      "name": "CommVault Certified Professional",
+      "issuer": "CommVault",
+      "startDate": "2011-08-31"
+    },
+    {
+      "name": "MCP",
+      "issuer": "Microsoft",
+      "startDate": "2010-03-31"
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "issuer": "Amazon Web Services",
+      "endDate": "2019-07-31",
+      "startDate": "2017-07-31",
+      "url": "http://aws.amazon.com/verification"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Microsoft Exchange",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware ESX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VDI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Munich Re",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serverless Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SCCM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Change Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Center Infrastructure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CommVault",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IPFX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JBoss Application Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure as code (IaC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ActiveBatch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NetApp",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Center Configuration Manager (SCCM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Secure File Transfer Protocol (SFTP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Powershell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco Systems Products",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firewalls",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "EMC Storage",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "3PAR",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Secure Shell (SSH)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vendor Coordination",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Storage Area Network (SAN)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Disaster Recovery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Job Scheduling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Brocade",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Hungarian"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Gayle Rossell",
+      "reference": "I worked with Adam for 5 years at Calliden/Calibre/Munich Re.  During this time Adam had a key role in the implementation and delivery of our ever changing IT Technology,  His knowledge of Active Batch enabled us to improve our daily work processes which greatly enhanced tasks for all staff.  We worked together on numerous tasks including AH system releases and user problems.  Adam has been a great asset to the company and is well admired by all of the staff for his willingness to help and go \"above & beyond\" to address problems.  I wouldn't hesitate in working with Adam again if I am fortunate enough to have that opportunity.  "
+    },
+    {
+      "name": "Bojan Tadic",
+      "reference": "I've had the privilege of working with Adam for the past five years as part of an IT infrastructure team in Melbourne. Adam is a detail-oriented Systems Engineer who possesses a broad experience and knowledge of network, physical and virtual infrastructure systems. He is an energetic person who does not hesitate to tackle any problem with a large dose of creative reasoning and hard logic in order to find a viable solution. I feel Adam excels at exploring/bouncing/implementing new ideas and concepts and I would welcome an opportunity to work with him again in the future."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "app": "python3 app.py",
+    "requireApproval": "never",
+    "context": {
+      "namespace": "adamsnimbus-info-site",
+      "domain_name": "adamsnimbus.info"
+    }
+  }
